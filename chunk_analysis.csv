@@ -1,0 +1,907 @@
+method,chunkNo #,length,content,content 
+Recursive,1,67,"Profiles
+LinkedIn : https://www.linkedin.com/in/soumyabrata-sarkar/",
+Recursive,2,43,"Github : https://github.com/scode24
+Summary",
+Recursive,3,96,"Senior Software Engineer with 11 years of experience designing, testing, and developing software",
+Recursive,4,39,developing software solutions. In-depth,
+Recursive,5,99,understanding of web technologies with focus on delivering innovative business solutions. Excels in,
+Recursive,6,33,"Excels in fast-paced, high-energy",
+Recursive,7,93,and deadline-driven environment with willingness to take on additional tasks.Passionate about,
+Recursive,8,31,about leveraging AI and machine,
+Recursive,9,63,"learning to drive innovation and solve complex problems.
+Skills",
+Recursive,10,96,"Programming Languages & Frameworks : Java, J2EE, Spring (Spring Framework), React JS, Express JS",
+Recursive,11,99,"Architecture & Design : Microservices Architecture, RDBMS (Relational Database Management Systems),",
+Recursive,12,15,"Systems), NoSQL",
+Recursive,13,80,"(Hands-on experience)
+Messaging & Integration : Kafka (Event Streaming Platform)",
+Recursive,14,66,Containerization & Deployment : Docker (Containerization Platform),
+Recursive,15,85,DevOps & Continuous Delivery : CI/CD (Continuous Integration / Continuous Deployment),
+Recursive,16,53,"Cloud Technology : Hands-on experiences on AWS, Azure",
+Recursive,17,79,"AI/ML : LLMs Integration (Hands-on experience with Gemini / ChatGPT)
+Experience",
+Recursive,18,76,"Experience
+OpenText | Bangalore
+Senior Software Engineer | 08/2023 - Present",
+Recursive,19,95,Implemented a secure hashing mechanism in the project workflow. Introduced a new hashing method,
+Recursive,20,36,new hashing method (HMAC-256/512) to,
+Recursive,21,97,"enhance data protection, achieving a 25% improvement in data processing efficiency while ensuring",
+Recursive,22,34,while ensuring compliance with PCI,
+Recursive,23,20,DSS v4.0 guidelines.,
+Recursive,24,94,Resolved critical production issues by conducting an in-depth analysis and optimization of JVM,
+Recursive,25,45,"optimization of JVM configurations, including",
+Recursive,26,94,"heap space, thread usage, and garbage collection settings. This resulted in a 40% reduction in",
+Recursive,27,37,a 40% reduction in server crashes and,
+Recursive,28,26,improved system stability.,
+Recursive,29,97,"Optimized API performance by refactoring API code for bulk API calls, improving response times by",
+Recursive,30,36,response times by 30% and increasing,
+Recursive,31,75,"throughput by 25%, directly benefiting over 1 million API requests per day.",
+Recursive,32,99,Automated performance testing by developing custom scripts to automate performance testing for SOAP,
+Recursive,33,25,testing for SOAP and REST,
+Recursive,34,92,"APIs. Created 10+ comprehensive JMeter scripts that supported load testing for up to 100,000",
+Recursive,35,35,"for up to 100,000 concurrent users,",
+Recursive,36,43,significantly reducing manual testing time.,
+Recursive,37,99,Developed a web application using React.js and Spring Boot with JPA to track and query log data for,
+Recursive,38,32,query log data for specific time,
+Recursive,39,56,"periods, enabling efficient log monitoring and analysis.",
+Recursive,40,91,Built an internal monitoring tool for tracking the status of SPP servers in the development,
+Recursive,41,47,in the development environment. Implemented key,
+Recursive,42,98,"functionalities such as starting, stopping, and checking the status of services. Utilized React.js",
+Recursive,43,38,Utilized React.js for the frontend and,
+Recursive,44,54,Express.js to handle RESTful API calls on the backend.,
+Recursive,45,93,"Worked on in-house RAG-based chatbot using LangChain, JavaScript APIs, and a vector database.",
+Recursive,46,95,"Built a POC integrating Gemini/ChatGPT APIs to fetch contextual responses, perform computations",
+Recursive,47,33,"computations based on output, and",
+Recursive,48,98,"display results in the UI; later migrated to internal LLM using Llama.
+Thomson Reuters | Bangalore",
+Recursive,49,44,Senior Software Engineer | 05/2021 - 08/2023,
+Recursive,50,93,"Led architectural redesigns, including implementing event-driven architecture, which improved",
+Recursive,51,40,which improved system scalability by 50%,
+Recursive,52,94,"and reduced operational latency by 30%, handling over 2 million daily transactions seamlessly.",
+Recursive,53,98,"Played a key role in planning, task breakdown, resource allocation, and risk mitigation, resulting",
+Recursive,54,36,resulting in the on-time delivery of,
+Recursive,55,95,95% of project milestones. Ensured quality control that led to a 20% reduction in post-delivery,
+Recursive,56,44,in post-delivery defects across 10+ critical,
+Recursive,57,28,"projects.
+Soumyabrata Sarkar",
+Recursive,58,94,"Soumyabrata Sarkar
++91-8088844081 / +91-9535592494 | sarkar.soumyabrata2@gmail.com | Bangalore",
+Recursive,59,97,"Optimized project workflows and delivery support processes, reducing delivery turnaround time and",
+Recursive,60,39,turnaround time and increasing customer,
+Recursive,61,95,satisfaction scores by 30%. Maintained 100% on-time delivery for high-priority client projects.,
+Recursive,62,88,Resolved UI bugs to enhance the overall user experience and improve interface usability.,
+Recursive,63,96,"Implemented an advanced search feature with filter support using React.js, incorporating backend",
+Recursive,64,30,backend query optimization and,
+Recursive,65,74,"caching to ensure high performance and responsiveness.
+Capgemini | Kolkata",
+Recursive,66,50,"Capgemini | Kolkata
+Consultant | 08/2018 - 05/2021",
+Recursive,67,97,Refactored a monolithic standalone application into a microservices-based architecture to improve,
+Recursive,68,23,"to improve scalability,",
+Recursive,69,37,"maintainability, and user experience.",
+Recursive,70,90,Actively participated in design discussions and provided clarifications to ensure a shared,
+Recursive,71,50,to ensure a shared understanding of project goals.,
+Recursive,72,90,Refactored a monolithic web application into a microservices-based architecture to improve,
+Recursive,73,40,"to improve scalability, maintainability,",
+Recursive,74,20,and user experience.,
+Recursive,75,96,"Utilized Angular framework for the frontend and Kafka for asynchronous operations, enabling more",
+Recursive,76,28,enabling more responsive and,
+Recursive,77,20,efficient workflows.,
+Recursive,78,94,"Implemented real-time position tracking using the Google Maps API, enhancing the application's",
+Recursive,79,35,the application's interactivity and,
+Recursive,80,10,usability.,
+Recursive,81,96,"Consistently adhered to and applied agile practices within the team, ensuring iterative progress",
+Recursive,82,34,iterative progress and fostering a,
+Recursive,83,97,"collaborative development environment.
+Infosys | Bangalore
+Technology Analyst | 07/2017 - 08/2018",
+Recursive,84,51,Involved requirement analysis and code development.,
+Recursive,85,80,"Involved in development of python service to automate processes.
+IBM | Bangalore",
+Recursive,86,61,"IBM | Bangalore
+Associate System Engineer | 12/2014 - 07/2017",
+Recursive,87,91,Delivered new and complex high-quality solutions to clients in response to varying business,
+Recursive,88,47,to varying business requirements Involvement in,
+Recursive,89,26,deployment of application.,
+Recursive,90,91,"Involved in the development of Linux scripts for log monitoring, deleting, taking backup of",
+Recursive,91,42,taking backup of necessary les and running,
+Recursive,92,72,"batches.
+Monitored system issue to ensure higher quality service.
+Awards",
+Recursive,93,94,"Surge Award (Thomson Reuters,2023) - For consistently deliver outstanding results in demanding",
+Recursive,94,27,"in demanding circumstances,",
+Recursive,95,53,"demonstrating dedication, and problem-solving skills.",
+Recursive,96,91,"Project Star (Capgemini,2019) - For exceptional project performance, innovation, and client",
+Recursive,97,24,and client satisfaction.,
+Recursive,98,98,"Manager's Choice Award for Put the Client First, Deep Skill Adder Award (IBM,2016) - For enhancing",
+Recursive,99,29,- For enhancing expertise and,
+Recursive,100,28,contribute to IBM's success.,
+Recursive,101,99,"Manager's Choice Award for Restlessly Reinvent IBM and Ourselves (IBM,2015) - For innovation, adapt",
+Recursive,102,28,"innovation, adapt to change,",
+Recursive,103,81,"and foster collaboration, leading to significant business improvements.
+Education",
+Recursive,104,97,"Education
+West Bengal University of Technology | Kolkata
+Computer Science & Engineering | 03/2013",
+Recursive,105,33,"Languages
+English, Hindi, Bengali",
+Recursive,106,90,"<!DOCTYPE html>
+        <html lang=""en"">
+        <head>
+            <meta charset=""UTF-8"">",
+Recursive,107,84,"<title>Technical Skills Overview</title>
+            
+        </head>
+        <body>",
+Recursive,108,34,<h1>Technical Skills Overview</h1>,
+Recursive,109,28,"<table>
+                <tr>",
+Recursive,110,43,<th>Programming Languages & Frameworks</th>,
+Recursive,111,68,"<td>Java, J2EE, Spring (Spring Framework), React JS, Express JS</td>",
+Recursive,112,77,"</tr>
+                <tr>
+                    <th>Architecture & Design</th>",
+Recursive,113,79,"<td>Microservices Architecture, RDBMS (Relational Database Management Systems),",
+Recursive,114,42,"Systems), NoSQL (Hands-on experience)</td>",
+Recursive,115,79,"</tr>
+                <tr>
+                    <th>Messaging & Integration</th>",
+Recursive,116,63,"<td>Kafka (Event Streaming Platform)</td>
+                </tr>",
+Recursive,117,63,"<tr>
+                    <th>Containerization & Deployment</th>",
+Recursive,118,65,"<td>Docker (Containerization Platform)</td>
+                </tr>",
+Recursive,119,62,"<tr>
+                    <th>DevOps & Continuous Delivery</th>",
+Recursive,120,63,<td>CI/CD (Continuous Integration / Continuous Deployment)</td>,
+Recursive,121,72,"</tr>
+                <tr>
+                    <th>Cloud Technology</th>",
+Recursive,122,65,"<td>Hands-on experiences on AWS, Azure</td>
+                </tr>",
+Recursive,123,39,"<tr>
+                    <th>AI/ML</th>",
+Recursive,124,69,<td>LLMs Integration (Hands-on experience with Gemini / ChatGPT)</td>,
+Recursive,125,26,"</tr>
+            </table>",
+Recursive,126,23,"</body>
+        </html>",
+Character,1,76,"Profiles
+LinkedIn : https://www.linkedin.com/in/soumyabrata-sarkar/
+Github :",
+Character,2,100,": https://github.com/scode24
+Summary
+Senior Software Engineer with 11 years of experience designing,",
+Character,3,97,"designing, testing, and developing software solutions. In-depth
+understanding of web technologies",
+Character,4,97,"of web technologies with focus on delivering innovative business solutions. Excels in fast-paced,",
+Character,5,97,"in fast-paced, high-energy
+and deadline-driven environment with willingness to take on additional",
+Character,6,100,"take on additional tasks.Passionate about leveraging AI and machine
+learning to drive innovation and",
+Character,7,100,"drive innovation and solve complex problems.
+Skills
+Programming Languages & Frameworks : Java, J2EE,",
+Character,8,99,": Java, J2EE, Spring (Spring Framework), React JS, Express JS
+Architecture & Design : Microservices",
+Character,9,93,": Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL
+(Hands-on",
+Character,10,76,"NoSQL
+(Hands-on experience)
+Messaging & Integration : Kafka (Event Streaming",
+Character,11,100,"(Event Streaming Platform)
+Containerization & Deployment : Docker (Containerization Platform)
+DevOps",
+Character,12,83,"Platform)
+DevOps & Continuous Delivery : CI/CD (Continuous Integration / Continuous",
+Character,13,91,"/ Continuous Deployment)
+Cloud Technology : Hands-on experiences on AWS, Azure
+AI/ML : LLMs",
+Character,14,96,"Azure
+AI/ML : LLMs Integration (Hands-on experience with Gemini / ChatGPT)
+Experience
+OpenText |",
+Character,15,98,"| Bangalore
+Senior Software Engineer | 08/2023 - Present
+Implemented a secure hashing mechanism in",
+Character,16,100,"hashing mechanism in the project workflow. Introduced a new hashing method (HMAC-256/512) to
+enhance",
+Character,17,100,"to
+enhance data protection, achieving a 25% improvement in data processing efficiency while ensuring",
+Character,18,94,"while ensuring compliance with PCI
+DSS v4.0 guidelines.
+Resolved critical production issues by",
+Character,19,92,"production issues by conducting an in-depth analysis and optimization of JVM configurations,",
+Character,20,93,"JVM configurations, including
+heap space, thread usage, and garbage collection settings. This",
+Character,21,80,"settings. This resulted in a 40% reduction in server crashes and
+improved system",
+Character,22,100,"and
+improved system stability.
+Optimized API performance by refactoring API code for bulk API calls,",
+Character,23,94,"for bulk API calls, improving response times by 30% and increasing
+throughput by 25%, directly",
+Character,24,97,"by 25%, directly benefiting over 1 million API requests per day.
+Automated performance testing by",
+Character,25,100,"testing by developing custom scripts to automate performance testing for SOAP and REST
+APIs. Created",
+Character,26,97,"REST
+APIs. Created 10+ comprehensive JMeter scripts that supported load testing for up to 100,000",
+Character,27,95,"for up to 100,000 concurrent users,
+significantly reducing manual testing time.
+Developed a web",
+Character,28,98,a web application using React.js and Spring Boot with JPA to track and query log data for specific,
+Character,29,97,"data for specific time
+periods, enabling efficient log monitoring and analysis.
+Built an internal",
+Character,30,98,an internal monitoring tool for tracking the status of SPP servers in the development environment.,
+Character,31,99,"environment. Implemented key
+functionalities such as starting, stopping, and checking the status of",
+Character,32,95,"the status of services. Utilized React.js for the frontend and
+Express.js to handle RESTful API",
+Character,33,94,"handle RESTful API calls on the backend.
+Worked on in-house RAG-based chatbot using LangChain,",
+Character,34,100,"using LangChain, JavaScript APIs, and a vector database.
+Built a POC integrating Gemini/ChatGPT APIs",
+Character,35,100,"Gemini/ChatGPT APIs to fetch contextual responses, perform computations based on output, and
+display",
+Character,36,100,"output, and
+display results in the UI; later migrated to internal LLM using Llama.
+Thomson Reuters |",
+Character,37,93,"Reuters | Bangalore
+Senior Software Engineer | 05/2021 - 08/2023
+Led architectural redesigns,",
+Character,38,97,"redesigns, including implementing event-driven architecture, which improved system scalability by",
+Character,39,88,"scalability by 50%
+and reduced operational latency by 30%, handling over 2 million daily",
+Character,40,92,"over 2 million daily transactions seamlessly.
+Played a key role in planning, task breakdown,",
+Character,41,98,"task breakdown, resource allocation, and risk mitigation, resulting in the on-time delivery of
+95%",
+Character,42,93,"delivery of
+95% of project milestones. Ensured quality control that led to a 20% reduction in",
+Character,43,82,"a 20% reduction in post-delivery defects across 10+ critical
+projects.
+Soumyabrata",
+Character,44,100,"Sarkar
++91-8088844081 / +91-9535592494 | sarkar.soumyabrata2@gmail.com | Bangalore
+Optimized project",
+Character,45,98,"project workflows and delivery support processes, reducing delivery turnaround time and increasing",
+Character,46,93,"time and increasing customer
+satisfaction scores by 30%. Maintained 100% on-time delivery for",
+Character,47,96,"on-time delivery for high-priority client projects.
+Resolved UI bugs to enhance the overall user",
+Character,48,99,"the overall user experience and improve interface usability.
+Implemented an advanced search feature",
+Character,49,91,"search feature with filter support using React.js, incorporating backend query optimization",
+Character,50,89,"query optimization and
+caching to ensure high performance and responsiveness.
+Capgemini |",
+Character,51,94,"| Kolkata
+Consultant | 08/2018 - 05/2021
+Refactored a monolithic standalone application into a",
+Character,52,96,"application into a microservices-based architecture to improve scalability,
+maintainability, and",
+Character,53,95,"and user experience.
+Actively participated in design discussions and provided clarifications to",
+Character,54,93,"clarifications to ensure a shared understanding of project goals.
+Refactored a monolithic web",
+Character,55,92,"a monolithic web application into a microservices-based architecture to improve scalability,",
+Character,56,93,"improve scalability, maintainability,
+and user experience.
+Utilized Angular framework for the",
+Character,57,90,"framework for the frontend and Kafka for asynchronous operations, enabling more responsive",
+Character,58,97,"more responsive and
+efficient workflows.
+Implemented real-time position tracking using the Google",
+Character,59,96,"using the Google Maps API, enhancing the application's interactivity and
+usability.
+Consistently",
+Character,60,97,"adhered to and applied agile practices within the team, ensuring iterative progress and fostering",
+Character,61,95,"and fostering a
+collaborative development environment.
+Infosys | Bangalore
+Technology Analyst |",
+Character,62,91,"Analyst | 07/2017 - 08/2018
+Involved requirement analysis and code development.
+Involved in",
+Character,63,99,"in development of python service to automate processes.
+IBM | Bangalore
+Associate System Engineer |",
+Character,64,98,"System Engineer | 12/2014 - 07/2017
+Delivered new and complex high-quality solutions to clients in",
+Character,65,84,"to clients in response to varying business requirements Involvement in
+deployment of",
+Character,66,94,"in
+deployment of application.
+Involved in the development of Linux scripts for log monitoring,",
+Character,67,98,"for log monitoring, deleting, taking backup of necessary les and running
+batches.
+Monitored system",
+Character,68,94,"system issue to ensure higher quality service.
+Awards
+Surge Award (Thomson Reuters,2023) - For",
+Character,69,73,"Reuters,2023) - For consistently deliver outstanding results in demanding",
+Character,70,97,"results in demanding circumstances,
+demonstrating dedication, and problem-solving skills.
+Project",
+Character,71,99,"skills.
+Project Star (Capgemini,2019) - For exceptional project performance, innovation, and client",
+Character,72,96,"and client satisfaction.
+Manager's Choice Award for Put the Client First, Deep Skill Adder Award",
+Character,73,97,"Skill Adder Award (IBM,2016) - For enhancing expertise and
+contribute to IBM's success.
+Manager's",
+Character,74,90,"success.
+Manager's Choice Award for Restlessly Reinvent IBM and Ourselves (IBM,2015) - For",
+Character,75,94,"(IBM,2015) - For innovation, adapt to change,
+and foster collaboration, leading to significant",
+Character,76,86,"to significant business improvements.
+Education
+West Bengal University of Technology |",
+Character,77,98,"of Technology | Kolkata
+Computer Science & Engineering | 03/2013
+Languages
+English, Hindi, Bengali",
+Character,78,100,"Hindi, Bengali
+
+ <!DOCTYPE html>
+ <html lang=""en"">
+ <head>
+ <meta charset=""UTF-8"">
+ <title>Technical",
+Character,79,96,"<title>Technical Skills Overview</title>
+ 
+ </head>
+ <body>
+
+ <h1>Technical Skills Overview</h1>",
+Character,80,98,"Overview</h1>
+
+ <table>
+ <tr>
+ <th>Programming Languages & Frameworks</th>
+ <td>Java, J2EE, Spring",
+Character,81,91,"J2EE, Spring (Spring Framework), React JS, Express JS</td>
+ </tr>
+ <tr>
+ <th>Architecture &",
+Character,82,90,"<th>Architecture & Design</th>
+ <td>Microservices Architecture, RDBMS (Relational Database",
+Character,83,87,"(Relational Database Management Systems), NoSQL (Hands-on experience)</td>
+ </tr>
+ <tr>",
+Character,84,95,"</tr>
+ <tr>
+ <th>Messaging & Integration</th>
+ <td>Kafka (Event Streaming Platform)</td>
+ </tr>",
+Character,85,96,"</tr>
+ <tr>
+ <th>Containerization & Deployment</th>
+ <td>Docker (Containerization Platform)</td>",
+Character,86,89,"Platform)</td>
+ </tr>
+ <tr>
+ <th>DevOps & Continuous Delivery</th>
+ <td>CI/CD (Continuous",
+Character,87,93,"(Continuous Integration / Continuous Deployment)</td>
+ </tr>
+ <tr>
+ <th>Cloud Technology</th>",
+Character,88,99,"Technology</th>
+ <td>Hands-on experiences on AWS, Azure</td>
+ </tr>
+ <tr>
+ <th>AI/ML</th>
+ <td>LLMs",
+Character,89,96,"<td>LLMs Integration (Hands-on experience with Gemini / ChatGPT)</td>
+ </tr>
+ </table>
+
+ </body>",
+Character,90,27,"</table>
+
+ </body>
+ </html>",
+Token,1,74,"Profiles
+LinkedIn : https://www.linkedin.com/in/soumyabrata-sarkar/
+Github",
+Token,2,120,"ar/
+Github : https://github.com/scode24
+Summary
+Senior Software Engineer with 11 years of experience designing, testing,",
+Token,3,175,"experience designing, testing, and developing software solutions. In-depth
+understanding of web technologies with focus on delivering innovative business solutions. Excels in",
+Token,4,139,"solutions. Excels in fast-paced, high-energy
+and deadline-driven environment with willingness to take on additional tasks.Passionate about",
+Token,5,144,".Passionate about leveraging AI and machine
+learning to drive innovation and solve complex problems.
+Skills
+Programming Languages & Frameworks :",
+Token,6,123,"Languages & Frameworks : Java, J2EE, Spring (Spring Framework), React JS, Express JS
+Architecture & Design : Microservices",
+Token,7,125,"& Design : Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL
+(Hands-on experience)
+Messaging",
+Token,8,145,"experience)
+Messaging & Integration : Kafka (Event Streaming Platform)
+Containerization & Deployment : Docker (Containerization Platform)
+DevOps",
+Token,9,139,"Platform)
+DevOps & Continuous Delivery : CI/CD (Continuous Integration / Continuous Deployment)
+Cloud Technology : Hands-on experiences on",
+Token,10,105,"Hands-on experiences on AWS, Azure
+AI/ML : LLMs Integration (Hands-on experience with Gemini / ChatGPT)",
+Token,11,125,"ChatGPT)
+Experience
+OpenText | Bangalore
+Senior Software Engineer | 08/2023 - Present
+Implemented a secure hashing mechanism",
+Token,12,133,"mented a secure hashing mechanism in the project workflow. Introduced a new hashing method (HMAC-256/512) to
+enhance data protection,",
+Token,13,142,"enhance data protection, achieving a 25% improvement in data processing efficiency while ensuring compliance with PCI
+DSS v4.0 guidelines.
+Res",
+Token,14,153,"0 guidelines.
+Resolved critical production issues by conducting an in-depth analysis and optimization of JVM configurations, including
+heap space, thread",
+Token,15,141,"heap space, thread usage, and garbage collection settings. This resulted in a 40% reduction in server crashes and
+improved system stability.",
+Token,16,139,"ved system stability.
+Optimized API performance by refactoring API code for bulk API calls, improving response times by 30% and increasing",
+Token,17,157,"30% and increasing
+throughput by 25%, directly benefiting over 1 million API requests per day.
+Automated performance testing by developing custom scripts to",
+Token,18,161,"by developing custom scripts to automate performance testing for SOAP and REST
+APIs. Created 10+ comprehensive JMeter scripts that supported load testing for up",
+Token,19,146,"supported load testing for up to 100,000 concurrent users,
+significantly reducing manual testing time.
+Developed a web application using React.js",
+Token,20,154,"application using React.js and Spring Boot with JPA to track and query log data for specific time
+periods, enabling efficient log monitoring and analysis",
+Token,21,161,"efficient log monitoring and analysis.
+Built an internal monitoring tool for tracking the status of SPP servers in the development environment. Implemented key",
+Token,22,132,"Implemented key
+functionalities such as starting, stopping, and checking the status of services. Utilized React.js for the frontend",
+Token,23,102,"js for the frontend and
+Express.js to handle RESTful API calls on the backend.
+Worked on in-house RAG-",
+Token,24,118,"-house RAG-based chatbot using LangChain, JavaScript APIs, and a vector database.
+Built a POC integrating Gemini/ChatG",
+Token,25,150,"integrating Gemini/ChatGPT APIs to fetch contextual responses, perform computations based on output, and
+display results in the UI; later migrated to",
+Token,26,117,"UI; later migrated to internal LLM using Llama.
+Thomson Reuters | Bangalore
+Senior Software Engineer | 05/2021 - 08/",
+Token,27,138,"2021 - 08/2023
+Led architectural redesigns, including implementing event-driven architecture, which improved system scalability by 50%
+and",
+Token,28,148,"by 50%
+and reduced operational latency by 30%, handling over 2 million daily transactions seamlessly.
+Played a key role in planning, task breakdown",
+Token,29,143,"in planning, task breakdown, resource allocation, and risk mitigation, resulting in the on-time delivery of
+95% of project milestones. Ensured",
+Token,30,131,"project milestones. Ensured quality control that led to a 20% reduction in post-delivery defects across 10+ critical
+projects.
+Sou",
+Token,31,62,"projects.
+Soumyabrata Sarkar
++91-8088844081 / +91-9535592494 |",
+Token,32,84,"35592494 | sarkar.soumyabrata2@gmail.com | Bangalore
+Optimized project workflows and",
+Token,33,159,"ized project workflows and delivery support processes, reducing delivery turnaround time and increasing customer
+satisfaction scores by 30%. Maintained 100% on",
+Token,34,154,"aintained 100% on-time delivery for high-priority client projects.
+Resolved UI bugs to enhance the overall user experience and improve interface usability",
+Token,35,172,"experience and improve interface usability.
+Implemented an advanced search feature with filter support using React.js, incorporating backend query optimization and
+caching",
+Token,36,118,"optimization and
+caching to ensure high performance and responsiveness.
+Capgemini | Kolkata
+Consultant | 08/2018 - 05",
+Token,37,130,"08/2018 - 05/2021
+Refactored a monolithic standalone application into a microservices-based architecture to improve scalability,",
+Token,38,167,"improve scalability,
+maintainability, and user experience.
+Actively participated in design discussions and provided clarifications to ensure a shared understanding of",
+Token,39,161,"ensure a shared understanding of project goals.
+Refactored a monolithic web application into a microservices-based architecture to improve scalability, maintain",
+Token,40,156,"improve scalability, maintainability,
+and user experience.
+Utilized Angular framework for the frontend and Kafka for asynchronous operations, enabling more",
+Token,41,168,"asynchronous operations, enabling more responsive and
+efficient workflows.
+Implemented real-time position tracking using the Google Maps API, enhancing the application",
+Token,42,145,"API, enhancing the application's interactivity and
+usability.
+Consistently adhered to and applied agile practices within the team, ensuring iter",
+Token,43,142,"the team, ensuring iterative progress and fostering a
+collaborative development environment.
+Infosys | Bangalore
+Technology Analyst | 07/2017",
+Token,44,145,"Analyst | 07/2017 - 08/2018
+Involved requirement analysis and code development.
+Involved in development of python service to automate processes.",
+Token,45,124,"service to automate processes.
+IBM | Bangalore
+Associate System Engineer | 12/2014 - 07/2017
+Delivered new and complex high",
+Token,46,152,"ivered new and complex high-quality solutions to clients in response to varying business requirements Involvement in
+deployment of application.
+Involved",
+Token,47,144,"application.
+Involved in the development of Linux scripts for log monitoring, deleting, taking backup of necessary les and running
+batches.
+Mon",
+Token,48,109,"batches.
+Monitored system issue to ensure higher quality service.
+Awards
+Surge Award (Thomson Reuters,2023) -",
+Token,49,148,",2023) - For consistently deliver outstanding results in demanding circumstances,
+demonstrating dedication, and problem-solving skills.
+Project Star",
+Token,50,141,"skills.
+Project Star (Capgemini,2019) - For exceptional project performance, innovation, and client satisfaction.
+Manager's Choice Award for",
+Token,51,126,"Manager's Choice Award for Put the Client First, Deep Skill Adder Award (IBM,2016) - For enhancing expertise and
+contribute to",
+Token,52,111,"and
+contribute to IBM's success.
+Manager's Choice Award for Restlessly Reinvent IBM and Ourselves (IBM,2015) -",
+Token,53,150,"M,2015) - For innovation, adapt to change,
+and foster collaboration, leading to significant business improvements.
+Education
+West Bengal University of",
+Token,54,124,"West Bengal University of Technology | Kolkata
+Computer Science & Engineering | 03/2013
+Languages
+English, Hindi, Bengali",
+Token,55,54,"Hindi, Bengali
+
+        <!DOCTYPE html>
+        <html",
+Token,56,45,"<html lang=""en"">
+        <head>",
+Token,57,49,"<meta charset=""UTF-8"">
+            <title",
+Token,58,62,<title>Technical Skills Overview</title>,
+Token,59,40,"</head>
+        <body>",
+Token,60,55,<h1>Technical Skills Overview</h1>,
+Token,61,37,"<table>
+                <tr>",
+Token,62,52,"<tr>
+                    <th>Programming Languages",
+Token,63,61,th>Programming Languages & Frameworks</th>,
+Token,64,77,"<td>Java, J2EE, Spring (Spring Framework), React JS, Express JS</td>",
+Token,65,35,"</td>
+                </tr>",
+Token,66,32,<tr>,
+Token,67,50,<th>Architecture & Design</th>,
+Token,68,67,"<td>Microservices Architecture, RDBMS (Relational",
+Token,69,89,"DBMS (Relational Database Management Systems), NoSQL (Hands-on experience)</td>",
+Token,70,33,</tr>,
+Token,71,34,"<tr>
+                    <th",
+Token,72,53,<th>Messaging & Integration</th>,
+Token,73,59,<td>Kafka (Event Streaming Platform)</td>,
+Token,74,33,</tr>,
+Token,75,33,"<tr>
+                    <",
+Token,76,58,<th>Containerization & Deployment</th>,
+Token,77,62,<td>Docker (Containerization Platform)</td>,
+Token,78,33,</tr>,
+Token,79,32,<tr>,
+Token,80,57,<th>DevOps & Continuous Delivery</th>,
+Token,81,77,<td>CI/CD (Continuous Integration / Continuous Deployment)</td>,
+Token,82,36,")</td>
+                </tr>",
+Token,83,32,<tr>,
+Token,84,48,<th>Cloud Technology</th>,
+Token,85,59,"<td>Hands-on experiences on AWS, Azure</td>",
+Token,86,40,"Azure</td>
+                </tr>",
+Token,87,32,<tr>,
+Token,88,36,<th>AI/ML</th>,
+Token,89,70,<td>LLMs Integration (Hands-on experience with Gemini,
+Token,90,63,"-on experience with Gemini / ChatGPT)</td>
+                </tr",
+Token,91,42,"</tr>
+            </table>
+
+        </",
+Token,92,38,"</body>
+        </html>",
+NLTK,1,219,"Profiles
+LinkedIn : https://www.linkedin.com/in/soumyabrata-sarkar/
+Github : https://github.com/scode24
+Summary
+Senior Software Engineer with 11 years of experience designing, testing, and developing software solutions.",
+NLTK,2,98,"In-depth
+understanding of web technologies with focus on delivering innovative business solutions.",
+NLTK,3,210,"Excels in fast-paced, high-energy
+and deadline-driven environment with willingness to take on additional tasks.Passionate about leveraging AI and machine
+learning to drive innovation and solve complex problems.",
+NLTK,4,707,"Skills
+Programming Languages & Frameworks : Java, J2EE, Spring (Spring Framework), React JS, Express JS
+Architecture & Design : Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL
+(Hands-on experience)
+Messaging & Integration : Kafka (Event Streaming Platform)
+Containerization & Deployment : Docker (Containerization Platform)
+DevOps & Continuous Delivery : CI/CD (Continuous Integration / Continuous Deployment)
+Cloud Technology : Hands-on experiences on AWS, Azure
+AI/ML : LLMs Integration (Hands-on experience with Gemini / ChatGPT)
+Experience
+OpenText | Bangalore
+Senior Software Engineer | 08/2023 - Present
+Implemented a secure hashing mechanism in the project workflow.",
+NLTK,5,188,"Introduced a new hashing method (HMAC-256/512) to
+enhance data protection, achieving a 25% improvement in data processing efficiency while ensuring compliance with PCI
+DSS v4.0 guidelines.",
+NLTK,6,179,"Resolved critical production issues by conducting an in-depth analysis and optimization of JVM configurations, including
+heap space, thread usage, and garbage collection settings.",
+NLTK,7,81,"This resulted in a 40% reduction in server crashes and
+improved system stability.",
+NLTK,8,192,"Optimized API performance by refactoring API code for bulk API calls, improving response times by 30% and increasing
+throughput by 25%, directly benefiting over 1 million API requests per day.",
+NLTK,9,114,"Automated performance testing by developing custom scripts to automate performance testing for SOAP and REST
+APIs.",
+NLTK,10,148,"Created 10+ comprehensive JMeter scripts that supported load testing for up to 100,000 concurrent users,
+significantly reducing manual testing time.",
+NLTK,11,170,"Developed a web application using React.js and Spring Boot with JPA to track and query log data for specific time
+periods, enabling efficient log monitoring and analysis.",
+NLTK,12,104,Built an internal monitoring tool for tracking the status of SPP servers in the development environment.,
+NLTK,13,96,"Implemented key
+functionalities such as starting, stopping, and checking the status of services.",
+NLTK,14,93,"Utilized React.js for the frontend and
+Express.js to handle RESTful API calls on the backend.",
+NLTK,15,93,"Worked on in-house RAG-based chatbot using LangChain, JavaScript APIs, and a vector database.",
+NLTK,16,187,"Built a POC integrating Gemini/ChatGPT APIs to fetch contextual responses, perform computations based on output, and
+display results in the UI; later migrated to internal LLM using Llama.",
+NLTK,17,287,"Thomson Reuters | Bangalore
+Senior Software Engineer | 05/2021 - 08/2023
+Led architectural redesigns, including implementing event-driven architecture, which improved system scalability by 50%
+and reduced operational latency by 30%, handling over 2 million daily transactions seamlessly.",
+NLTK,18,152,"Played a key role in planning, task breakdown, resource allocation, and risk mitigation, resulting in the on-time delivery of
+95% of project milestones.",
+NLTK,19,106,"Ensured quality control that led to a 20% reduction in post-delivery defects across 10+ critical
+projects.",
+NLTK,20,240,"Soumyabrata Sarkar
++91-8088844081 / +91-9535592494 | sarkar.soumyabrata2@gmail.com | Bangalore
+Optimized project workflows and delivery support processes, reducing delivery turnaround time and increasing customer
+satisfaction scores by 30%.",
+NLTK,21,67,Maintained 100% on-time delivery for high-priority client projects.,
+NLTK,22,88,Resolved UI bugs to enhance the overall user experience and improve interface usability.,
+NLTK,23,174,"Implemented an advanced search feature with filter support using React.js, incorporating backend query optimization and
+caching to ensure high performance and responsiveness.",
+NLTK,24,199,"Capgemini | Kolkata
+Consultant | 08/2018 - 05/2021
+Refactored a monolithic standalone application into a microservices-based architecture to improve scalability,
+maintainability, and user experience.",
+NLTK,25,122,Actively participated in design discussions and provided clarifications to ensure a shared understanding of project goals.,
+NLTK,26,141,"Refactored a monolithic web application into a microservices-based architecture to improve scalability, maintainability,
+and user experience.",
+NLTK,27,132,"Utilized Angular framework for the frontend and Kafka for asynchronous operations, enabling more responsive and
+efficient workflows.",
+NLTK,28,123,"Implemented real-time position tracking using the Google Maps API, enhancing the application's interactivity and
+usability.",
+NLTK,29,151,"Consistently adhered to and applied agile practices within the team, ensuring iterative progress and fostering a
+collaborative development environment.",
+NLTK,30,110,"Infosys | Bangalore
+Technology Analyst | 07/2017 - 08/2018
+Involved requirement analysis and code development.",
+NLTK,31,64,Involved in development of python service to automate processes.,
+NLTK,32,208,"IBM | Bangalore
+Associate System Engineer | 12/2014 - 07/2017
+Delivered new and complex high-quality solutions to clients in response to varying business requirements Involvement in
+deployment of application.",
+NLTK,33,126,"Involved in the development of Linux scripts for log monitoring, deleting, taking backup of necessary les and running
+batches.",
+NLTK,34,56,Monitored system issue to ensure higher quality service.,
+NLTK,35,170,"Awards
+Surge Award (Thomson Reuters,2023) - For consistently deliver outstanding results in demanding circumstances,
+demonstrating dedication, and problem-solving skills.",
+NLTK,36,105,"Project Star (Capgemini,2019) - For exceptional project performance, innovation, and client satisfaction.",
+NLTK,37,141,"Manager's Choice Award for Put the Client First, Deep Skill Adder Award (IBM,2016) - For enhancing expertise and
+contribute to IBM's success.",
+NLTK,38,182,"Manager's Choice Award for Restlessly Reinvent IBM and Ourselves (IBM,2015) - For innovation, adapt to change,
+and foster collaboration, leading to significant business improvements.",
+NLTK,39,1704,"Education
+West Bengal University of Technology | Kolkata
+Computer Science & Engineering | 03/2013
+Languages
+English, Hindi, Bengali
+
+        <!DOCTYPE html>
+        <html lang=""en"">
+        <head>
+            <meta charset=""UTF-8"">
+            <title>Technical Skills Overview</title>
+            
+        </head>
+        <body>
+
+            <h1>Technical Skills Overview</h1>
+
+            <table>
+                <tr>
+                    <th>Programming Languages & Frameworks</th>
+                    <td>Java, J2EE, Spring (Spring Framework), React JS, Express JS</td>
+                </tr>
+                <tr>
+                    <th>Architecture & Design</th>
+                    <td>Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL (Hands-on experience)</td>
+                </tr>
+                <tr>
+                    <th>Messaging & Integration</th>
+                    <td>Kafka (Event Streaming Platform)</td>
+                </tr>
+                <tr>
+                    <th>Containerization & Deployment</th>
+                    <td>Docker (Containerization Platform)</td>
+                </tr>
+                <tr>
+                    <th>DevOps & Continuous Delivery</th>
+                    <td>CI/CD (Continuous Integration / Continuous Deployment)</td>
+                </tr>
+                <tr>
+                    <th>Cloud Technology</th>
+                    <td>Hands-on experiences on AWS, Azure</td>
+                </tr>
+                <tr>
+                    <th>AI/ML</th>
+                    <td>LLMs Integration (Hands-on experience with Gemini / ChatGPT)</td>
+                </tr>
+            </table>
+
+        </body>
+        </html>",
+HTML,1,25,,Technical Skills Overview
+HTML,2,571,,"Programming Languages & Frameworks  
+Java, J2EE, Spring (Spring Framework), React JS, Express JS  
+Architecture & Design  
+Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL (Hands-on experience)  
+Messaging & Integration  
+Kafka (Event Streaming Platform)  
+Containerization & Deployment  
+Docker (Containerization Platform)  
+DevOps & Continuous Delivery  
+CI/CD (Continuous Integration / Continuous Deployment)  
+Cloud Technology  
+Hands-on experiences on AWS, Azure  
+AI/ML  
+LLMs Integration (Hands-on experience with Gemini / ChatGPT)"
+MARKDOWN,1,7138,,"Profiles
+LinkedIn : https://www.linkedin.com/in/soumyabrata-sarkar/
+Github : https://github.com/scode24
+Summary
+Senior Software Engineer with 11 years of experience designing, testing, and developing software solutions. In-depth
+understanding of web technologies with focus on delivering innovative business solutions. Excels in fast-paced, high-energy
+and deadline-driven environment with willingness to take on additional tasks.Passionate about leveraging AI and machine
+learning to drive innovation and solve complex problems.
+Skills
+Programming Languages & Frameworks : Java, J2EE, Spring (Spring Framework), React JS, Express JS
+Architecture & Design : Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL
+(Hands-on experience)
+Messaging & Integration : Kafka (Event Streaming Platform)
+Containerization & Deployment : Docker (Containerization Platform)
+DevOps & Continuous Delivery : CI/CD (Continuous Integration / Continuous Deployment)
+Cloud Technology : Hands-on experiences on AWS, Azure
+AI/ML : LLMs Integration (Hands-on experience with Gemini / ChatGPT)
+Experience
+OpenText | Bangalore
+Senior Software Engineer | 08/2023 - Present
+Implemented a secure hashing mechanism in the project workflow. Introduced a new hashing method (HMAC-256/512) to
+enhance data protection, achieving a 25% improvement in data processing efficiency while ensuring compliance with PCI
+DSS v4.0 guidelines.
+Resolved critical production issues by conducting an in-depth analysis and optimization of JVM configurations, including
+heap space, thread usage, and garbage collection settings. This resulted in a 40% reduction in server crashes and
+improved system stability.
+Optimized API performance by refactoring API code for bulk API calls, improving response times by 30% and increasing
+throughput by 25%, directly benefiting over 1 million API requests per day.
+Automated performance testing by developing custom scripts to automate performance testing for SOAP and REST
+APIs. Created 10+ comprehensive JMeter scripts that supported load testing for up to 100,000 concurrent users,
+significantly reducing manual testing time.
+Developed a web application using React.js and Spring Boot with JPA to track and query log data for specific time
+periods, enabling efficient log monitoring and analysis.
+Built an internal monitoring tool for tracking the status of SPP servers in the development environment. Implemented key
+functionalities such as starting, stopping, and checking the status of services. Utilized React.js for the frontend and
+Express.js to handle RESTful API calls on the backend.
+Worked on in-house RAG-based chatbot using LangChain, JavaScript APIs, and a vector database.
+Built a POC integrating Gemini/ChatGPT APIs to fetch contextual responses, perform computations based on output, and
+display results in the UI; later migrated to internal LLM using Llama.
+Thomson Reuters | Bangalore
+Senior Software Engineer | 05/2021 - 08/2023
+Led architectural redesigns, including implementing event-driven architecture, which improved system scalability by 50%
+and reduced operational latency by 30%, handling over 2 million daily transactions seamlessly.
+Played a key role in planning, task breakdown, resource allocation, and risk mitigation, resulting in the on-time delivery of
+95% of project milestones. Ensured quality control that led to a 20% reduction in post-delivery defects across 10+ critical
+projects.
+Soumyabrata Sarkar
++91-8088844081 / +91-9535592494 | sarkar.soumyabrata2@gmail.com | Bangalore
+Optimized project workflows and delivery support processes, reducing delivery turnaround time and increasing customer
+satisfaction scores by 30%. Maintained 100% on-time delivery for high-priority client projects.
+Resolved UI bugs to enhance the overall user experience and improve interface usability.
+Implemented an advanced search feature with filter support using React.js, incorporating backend query optimization and
+caching to ensure high performance and responsiveness.
+Capgemini | Kolkata
+Consultant | 08/2018 - 05/2021
+Refactored a monolithic standalone application into a microservices-based architecture to improve scalability,
+maintainability, and user experience.
+Actively participated in design discussions and provided clarifications to ensure a shared understanding of project goals.
+Refactored a monolithic web application into a microservices-based architecture to improve scalability, maintainability,
+and user experience.
+Utilized Angular framework for the frontend and Kafka for asynchronous operations, enabling more responsive and
+efficient workflows.
+Implemented real-time position tracking using the Google Maps API, enhancing the application's interactivity and
+usability.
+Consistently adhered to and applied agile practices within the team, ensuring iterative progress and fostering a
+collaborative development environment.
+Infosys | Bangalore
+Technology Analyst | 07/2017 - 08/2018
+Involved requirement analysis and code development.
+Involved in development of python service to automate processes.
+IBM | Bangalore
+Associate System Engineer | 12/2014 - 07/2017
+Delivered new and complex high-quality solutions to clients in response to varying business requirements Involvement in
+deployment of application.
+Involved in the development of Linux scripts for log monitoring, deleting, taking backup of necessary les and running
+batches.
+Monitored system issue to ensure higher quality service.
+Awards
+Surge Award (Thomson Reuters,2023) - For consistently deliver outstanding results in demanding circumstances,
+demonstrating dedication, and problem-solving skills.
+Project Star (Capgemini,2019) - For exceptional project performance, innovation, and client satisfaction.
+Manager's Choice Award for Put the Client First, Deep Skill Adder Award (IBM,2016) - For enhancing expertise and
+contribute to IBM's success.
+Manager's Choice Award for Restlessly Reinvent IBM and Ourselves (IBM,2015) - For innovation, adapt to change,
+and foster collaboration, leading to significant business improvements.
+Education
+West Bengal University of Technology | Kolkata
+Computer Science & Engineering | 03/2013
+Languages
+English, Hindi, Bengali  
+<!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""UTF-8"">
+<title>Technical Skills Overview</title>  
+</head>
+<body>  
+<h1>Technical Skills Overview</h1>  
+<table>
+<tr>
+<th>Programming Languages & Frameworks</th>
+<td>Java, J2EE, Spring (Spring Framework), React JS, Express JS</td>
+</tr>
+<tr>
+<th>Architecture & Design</th>
+<td>Microservices Architecture, RDBMS (Relational Database Management Systems), NoSQL (Hands-on experience)</td>
+</tr>
+<tr>
+<th>Messaging & Integration</th>
+<td>Kafka (Event Streaming Platform)</td>
+</tr>
+<tr>
+<th>Containerization & Deployment</th>
+<td>Docker (Containerization Platform)</td>
+</tr>
+<tr>
+<th>DevOps & Continuous Delivery</th>
+<td>CI/CD (Continuous Integration / Continuous Deployment)</td>
+</tr>
+<tr>
+<th>Cloud Technology</th>
+<td>Hands-on experiences on AWS, Azure</td>
+</tr>
+<tr>
+<th>AI/ML</th>
+<td>LLMs Integration (Hands-on experience with Gemini / ChatGPT)</td>
+</tr>
+</table>  
+</body>
+</html>"
