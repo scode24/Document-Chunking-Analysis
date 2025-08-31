@@ -1,5 +1,7 @@
 # Document Chuncking Analysis
 
+![Document Chuncking Analysis](docuement_chunking.png)
+
 This code is for analyzing different text splitting methods using LangChain's text splitters on PDF documents and HTML content.
 
 ## Overview
